@@ -3,6 +3,7 @@ export default function Characters (props){
     const {characters, setCharacters} = props;
     console.log(props);
     console.log(characters);
+    
 
     const resetCharacters = () =>{
         //console.log('resetear');
